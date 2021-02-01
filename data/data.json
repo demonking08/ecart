@@ -1,0 +1,48 @@
+{
+     "mobiles":[
+         {
+             "name" : "oneplus 8 pro",
+             "image" : "img/1.jpg",
+             "oprice" : 60000,
+             "price" : 55000
+             
+         },
+         {
+             "name" : "ONEPLUS 8t",
+             "image" : "img/2.jfif",
+             "oprice" : 50000,
+             "price" : 45000
+             
+         },
+         {
+             "name" : "oneplus 7t",
+             "image" : "img/3.jfif",
+             "oprice" : 40000,
+             "price" : 35000
+         },
+         {
+             "name" : "oneplus 7 pro",
+             "image" : "img/3.jfif",
+             "oprice" : 45000,
+             "price" : 40000
+         },
+         {
+             "name" : "oneplus 7",
+             "image" : "img/4.jfif",
+             "oprice" : 40000,
+             "price" : 35000
+         },
+         {
+             "name" : "oneplus 6t",
+             "image" : "img/5.jfif",
+             "oprice" : 40000,
+             "price" : 30000
+         },
+         {
+             "name" : "oneplus 8 pro",
+             "image" : "img/1.jpg",
+             "oprice" : 60000,
+             "price" : 55000
+         }
+     ]
+}
